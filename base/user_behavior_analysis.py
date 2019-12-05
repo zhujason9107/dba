@@ -4,7 +4,7 @@
 import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
-get_ipython().run_line_magic('matplotlib', 'inline')
+# get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # + "user_id":用户ID
